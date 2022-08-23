@@ -8,6 +8,7 @@ This project was undertaken to analysze the standards of living in each country;
 ### Step 1 - Data Collection
 
 *I downloaded the dataset from kaggle.
+
 *I imported the dataset from my local machine into the program.
 
 
